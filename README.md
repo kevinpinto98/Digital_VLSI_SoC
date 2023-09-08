@@ -1,1 +1,1 @@
-# Digital_VLSI_SoC
+# Digital VLSI SoC
