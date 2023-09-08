@@ -1,1 +1,1 @@
-# Digital VLSI SoC
+# Digital VLSI System-on-Chip (SoC)
